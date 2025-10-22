@@ -1,3 +1,6 @@
+body{
+    background-color: #ffc0cb ;
+}
 img{
     width:100%;
 }
@@ -5,11 +8,11 @@ img{
     width:100%;
 }
 .cakes{
+    color:#800000;
     float:left;
     width:50%
 }
 .wrap{
-    background-color: #ffc0cb ;
     display:flex;
     flex-wrap:wrap;
 }
