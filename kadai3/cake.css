@@ -10,7 +10,9 @@ img{
 .cakes{
     color:#800000;
     float:left;
+    padding: 10px;
     width:50%
+    
 }
 .wrap{
     display:flex;
