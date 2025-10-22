@@ -1,10 +1,12 @@
-body{
-    background-color:#ffc0cb ;
-}
 .shop{
     width: 100%;
 }
 
 .cake{
     width:50%
+}
+.wrap{
+    background-color: #ffc0cb ;
+    display:flex;
+    flex-wrap:wrap;
 }
