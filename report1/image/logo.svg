@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_レイヤー_1" data-name="レイヤー 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <defs>
+    <style>
+      .cls-1 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-2 {
+        letter-spacing: 0em;
+      }
+
+      .cls-3 {
+        fill: none;
+        stroke: #f7f7fb;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+
+      .cls-4 {
+        font-size: 21.72px;
+      }
+
+      .cls-4, .cls-5 {
+        fill: #3c2f27;
+        font-family: SourceSerifRoman-Bold, 'Source Serif Variable';
+        font-variation-settings: 'wght' 700;
+        font-weight: 700;
+      }
+
+      .cls-6 {
+        fill: #7b1a29;
+      }
+
+      .cls-6, .cls-7 {
+        font-family: Elephant-Regular, Elephant;
+        font-size: 39.4px;
+      }
+
+      .cls-7 {
+        fill: #ececeb;
+      }
+
+      .cls-8 {
+        fill: #cec1a1;
+      }
+
+      .cls-5 {
+        font-size: 18px;
+      }
+
+      .cls-9 {
+        letter-spacing: -.03em;
+      }
+
+      .cls-10 {
+        letter-spacing: 0em;
+      }
+    </style>
+  </defs>
+  <rect class="cls-8" width="200" height="200"/>
+  <text class="cls-7" transform="translate(29.56 102.16) scale(1.01 1)"><tspan x="0" y="0">Chiba</tspan><tspan x="0" y="32.98" xml:space="preserve">     Tech</tspan></text>
+  <text class="cls-6" transform="translate(25.03 102.16) scale(1.01 1)"><tspan x="0" y="0">Chiba</tspan><tspan x="0" y="32.98" xml:space="preserve">     Tech</tspan></text>
+  <g>
+    <polygon class="cls-3" points="125.61 32.6 74.5 52.51 75.53 66.61 126.34 47.08 125.61 32.6"/>
+    <path class="cls-3" d="M125.61,32.6c-.05.31,0-4.4-11.86-10.09-11.08-5.31-17.86-1.94-17.86-1.94l-21.38,31.94"/>
+  </g>
+  <text class="cls-4" transform="translate(67.12 54.09)"><tspan class="cls-1" x="0" y="0">I</tspan><tspan x="8.06" y="0">tali</tspan><tspan class="cls-10" x="41.25" y="0">a</tspan><tspan x="52.76" y="0">n</tspan></text>
+  <text class="cls-5" transform="translate(64.81 167.3)"><tspan class="cls-9" x="0" y="0">W</tspan><tspan x="17.05" y="0">ine </tspan></text>
+  <text class="cls-5" transform="translate(111.86 167.3) scale(1.15 1)"><tspan x="0" y="0">B</tspan><tspan class="cls-2" x="11.72" y="0">a</tspan><tspan x="21.26" y="0">r</tspan></text>
+</svg>
