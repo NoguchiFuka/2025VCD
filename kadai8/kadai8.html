@@ -1,0 +1,86 @@
+<!doctype html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<title>JavaScriptを使った簡単な電卓</title>
+
+	<script>
+ 	function tasu() {
+ 		var ans;
+		var v1 = document.getElementById("a").value;
+		var v2 = document.getElementById("b").value;
+		ans = Number(v1)+Number(v2);
+		alert("答えは＝"+ans);
+ 	}
+	function hiku() {
+ 		var ans;
+		var v1 = document.getElementById("a").value;
+		var v2 = document.getElementById("b").value;
+		ans = Number(v1)-Number(v2);
+		alert("答えは＝"+ans);
+ 	}
+	function kakeru() {
+ 		var ans;
+		var v1 = document.getElementById("a").value;
+		var v2 = document.getElementById("b").value;
+		ans = Number(v1)*Number(v2);
+		alert("答えは＝"+ans);
+ 	}
+	function waru() {
+ 		var ans;
+		var v1 = document.getElementById("a").value;
+		var v2 = document.getElementById("b").value;
+		ans = Number(v1)/Number(v2);
+		alert("答えは＝"+ans);
+ 	}
+	function tenpercent() {
+ 		var ans;
+		var v1 = document.getElementById("c").value;
+		ans = Number(v1) * 0.1 + Number(v1);
+		alert("答えは＝"+ans);
+ 	}
+	function eightpercent() {
+ 		var ans;
+		var v1 = document.getElementById("c").value;
+		ans = Number(v1) * 0.08;
+		alert("答えは＝"+ans) + Number(v1);
+ 	}
+	function pink(){
+		document.body.style.backgroundColor = "pink";
+	}
+	function blue(){
+		document.body.style.backgroundColor = "#afeeee";
+	}
+	function green(){
+		document.body.style.backgroundColor = "#98fb98";
+	}
+	function orange(){
+		document.body.style.backgroundColor = "#ffc966";
+	}
+	</script>
+</head>
+
+<body>
+<h3>背景色の変更</h3>
+		<p>色のボタンを押すと背景の色がその色になるよ！<br></p>
+		<input type="button" onclick="pink()" value="ピンク" />
+		<input type="button" onclick="blue()" value="水色" />
+		<input type="button" onclick="green()" value="緑色" />
+		<input type="button" onclick="orange()" value="オレンジ" /><br><br>
+
+<h1>２つの数の計算</h1>
+	   	A= <input type="text" id="a" /> </br>
+	   	B= <input type="text" id="b" /> </br><br>
+	      <input type="button" onclick="tasu()" value="足し算" /> 
+		  <input type="button" onclick="hiku()" value="引き算" />
+		  <input type="button" onclick="kakeru()" value="掛け算" />
+		  <input type="button" onclick="waru()" value="割り算" /><br><br>
+		
+<h1>税率</h1>
+		A= <input type="text" id="c" /> <br><br>
+		  <input type="button" onclick="tenpercent()" value="10%" />
+		  <input type="button" onclick="eightpercent()" value="8%" /> <br>
+		<p>※入力した数と税を足した数が表示されます。</p>
+
+</body>
+</html>
