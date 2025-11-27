@@ -1,0 +1,51 @@
+@media screen and (min-width: 767px) { /*ウィンドウ幅が767px以上の場合に適用*/
+.main h6{
+    text-align: center;
+    font-size: 1.5em;
+}
+.three{
+    float:left;
+    text-align: center;
+    padding:1.5%; 
+    width: 30%;
+}
+.three img{
+    width:70%;
+    border-radius: 50%;
+}
+}
+
+@media screen and (max-width: 767px) { /*ウィンドウ幅が最大767pxまでの場合に適用*/
+.main h6{
+    text-align: center;
+    font-size: 1.3em;
+
+}
+.three{
+    float:left;
+    text-align: center;
+    padding:1.5%; 
+    width: 47%;
+}
+.three img{
+    width:70%;
+    border-radius: 50%;
+}
+}
+
+@media screen and (max-width: 479px) { /*ウィンドウ幅が最大479pxまでの場合に適用*/
+.main h6{
+    text-align: center;
+    font-weight: bold;
+}
+.three{
+    float:left;
+    text-align: center;
+    padding:1.5%; 
+    width: 100%;
+}
+.three img{
+    width:70%;
+    border-radius: 50%;
+}
+}
