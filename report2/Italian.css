@@ -1,0 +1,97 @@
+img{
+    width:100%;
+}
+
+.large-text{
+    text-decoration: underline;
+    color:#7b1a29;
+    font-size: 1.8em;
+}
+.logo-text{
+    color:#7b1a29;
+    font-size: 1.8em;
+}
+.large-text-2{
+    color:#7b1a29;
+    font-size: 1.3em;
+}
+.commitment{
+    float:left;
+    text-align: center;
+    padding: 2%;
+    width: 46%
+}
+.commitment img{
+    width: 70%
+}
+.com-text{
+    color:#A31F37;
+    font-weight: bold;
+    font-size: 1.7em;
+}
+.menu-top{
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+.threepieces img{
+    float:left;
+    width: 33.33%;
+}
+.three{
+    float:left;
+    text-align: center;
+    padding:1.5%; 
+    width: 30%;
+}
+.three img{
+    width:70%;
+    border-radius: 50%;
+}
+.concept{
+    background-color: #EEEEEE;
+}
+.wide-c{
+    margin: 0 auto;
+    margin-top: 6%;
+    width: 80%
+}
+.forte{
+    background-color: white;
+    float:left;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    aspect-ratio: 1 / 1;
+}
+.forte img{
+    width:20%;
+}
+.forte-text{
+    font-size: 1.5vw;
+}
+.forte-f{
+    background-color: white;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    width:100%;
+    margin: 1% 0;
+}
+.forte-f img{
+    width: 25%;
+    margin: 3% 10% 3% 10%;
+    border-radius: 50%;
+}
+.text-content {
+    flex-grow: 1;
+}
+
+.round img{
+    border-radius: 10%;
+}
+
+.logo{
+    width: 70%;
+}

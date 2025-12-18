@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_レイヤー_1" data-name="レイヤー 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 300">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #7b1a29;
+      }
+
+      .cls-1, .cls-2 {
+        font-family: Elephant-Regular, Elephant;
+        font-size: 214.35px;
+      }
+
+      .cls-3 {
+        font-size: 73.83px;
+      }
+
+      .cls-3, .cls-4 {
+        fill: #3d3028;
+        font-family: BernardMT-Condensed, 'Bernard MT Condensed';
+      }
+
+      .cls-5 {
+        fill: #fffbdd;
+      }
+
+      .cls-4 {
+        font-size: 100.38px;
+      }
+
+      .cls-6 {
+        letter-spacing: 0em;
+      }
+
+      .cls-2 {
+        fill: #fcc9cb;
+      }
+    </style>
+  </defs>
+  <rect class="cls-5" width="1920" height="300"/>
+  <text class="cls-4" transform="translate(285.05 230.29) scale(1.05 1)"><tspan class="cls-6" x="0" y="0">W</tspan><tspan x="70.14" y="0">ine </tspan></text>
+  <text class="cls-4" transform="translate(509.94 230.29) scale(1.15 1)"><tspan x="0" y="0">Bar</tspan></text>
+  <text class="cls-3" transform="translate(156.24 137.05)"><tspan x="0" y="0">Italian</tspan></text>
+  <text class="cls-2" transform="translate(889.17 234.27) scale(.68 1)"><tspan x="0" y="0">Chiba Tech</tspan></text>
+  <text class="cls-1" transform="translate(873.87 234.27) scale(.68 1)"><tspan x="0" y="0">Chiba Tech</tspan></text>
+</svg>
