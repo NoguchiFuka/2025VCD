@@ -5,55 +5,24 @@ img{
 .large-text{
     text-decoration: underline;
     color:#7b1a29;
-    font-size: 1.8em;
+    font-size: 1.5em;
 }
 .logo-text{
     color:#7b1a29;
-    font-size: 1.8em;
+    font-size: 1.5em;
 }
 .large-text-2{
     color:#7b1a29;
     font-size: 1.3em;
-}
-.commitment{
-    float:left;
-    text-align: center;
-    padding: 2%;
-    width: 46%
-}
-.commitment img{
-    width: 70%
 }
 .com-text{
     color:#A31F37;
     font-weight: bold;
     font-size: 1.7em;
 }
-.menu-top{
-    margin-top: 5%;
-    margin-bottom: 5%;
-}
-.threepieces img{
-    float:left;
-    width: 33.33%;
-}
-.three{
-    float:left;
-    text-align: center;
-    padding:1.5%; 
-    width: 30%;
-}
-.three img{
-    width:70%;
-    border-radius: 50%;
-}
+
 .concept{
     background-color: #EEEEEE;
-}
-.wide-c{
-    margin: 0 auto;
-    margin-top: 6%;
-    width: 80%
 }
 .forte{
     background-color: white;
@@ -88,10 +57,58 @@ img{
     flex-grow: 1;
 }
 
-.round img{
+.round{
     border-radius: 10%;
+}
+
+.circle{
+    border-radius: 50%;
 }
 
 .logo{
     width: 70%;
+}
+.sevent{
+    width: 70%;
+}
+
+
+.fivet{
+    width:50%;
+}
+
+@media (max-width: 768px) {
+    .sevent{
+        width: 100%;
+    }
+    .fivet {
+        width: 70%; /* スマホのときは70%に上書き */
+    }
+    h1{
+        font-size:1.2rem;
+    }
+    h2{
+        font-size:1.2rem;
+    }
+    h3 {
+        font-size: 1.2rem; 
+    }
+    h4{
+        font-size: 1.2rem;
+    }
+    h5{
+        font-size: 0.8rem;
+    }
+    p{
+        font-size: 0.8rem;
+    }
+    .large-text {
+        font-size: 2rem;
+    }
+    .logo-text{
+        font-size: 2rem;
+    }
+    .com-text{
+        font-size: 1.5rem;
+    }
 }
