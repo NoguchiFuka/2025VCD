@@ -20,7 +20,6 @@ img{
     font-weight: bold;
     font-size: 1.7em;
 }
-
 .concept{
     background-color: #EEEEEE;
 }
@@ -56,23 +55,18 @@ img{
 .text-content {
     flex-grow: 1;
 }
-
 .round{
     border-radius: 10%;
 }
-
 .circle{
     border-radius: 50%;
 }
-
 .logo{
     width: 70%;
 }
 .sevent{
     width: 70%;
 }
-
-
 .fivet{
     width:50%;
 }
